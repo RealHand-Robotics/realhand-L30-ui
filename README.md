@@ -36,14 +36,22 @@ After the device is connected, click **Enable**.
 
 ![Enable the device](ui-operating-step-6.png)
 
-### Step 7: Set parameters
+### Step 7: Control the joints
+
+Move the sliders to control the joints.
+
+### Step 8: Set parameters
 
 Open **parameter_setting**, enter the required values, then click **send** for the row you changed.
 
-![Parameter settings](ui-operating-step-7.png)
+![Parameter settings](ui-operating-step-8-parameters.png)
 
-### Step 8: Select a curve
+### Step 9: View live touch curves
 
-On the **control_interface** tab, select the curve you want to view, such as **torch_curve**.
+On the **control_interface** tab, select **torch_curve** to view the live touch curves.
 
-![Select a curve](ui-operating-step-8.png)
+![Select a curve](ui-operating-step-9-select.png)
+
+![Live touch curves](ui-operating-step-9.png)
+
+Repeat Step 9 to view live temperature, position, current, and speed curves.
